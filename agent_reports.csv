@@ -9,3 +9,61 @@ Skipped Uploads: Resume/CV, Cover Letter
 Company Name: Attentive
 Job Title: Unknown (not provided in the prompt, assuming from context of job board)
 Confidence Rating: 10",https://job-boards.greenhouse.io/attentive/jobs/4209296009,[],[],N/A
+Unknown User,AI Engineer,"{
+  ""applicant_name"": ""Alex Nguyen"",
+  ""filled"": [
+    ""First Name"",
+    ""Last Name"",
+    ""Preferred First Name"",
+    ""Email"",
+    ""Phone"",
+    ""LinkedIn Profile"",
+    ""Website"",
+    ""Will you now or in the future require sponsorship to work in the US?"",
+    ""Gender"",
+    ""Race"",
+    ""Veteran status"",
+    ""Cover Letter""
+  ],
+  ""empty"": [],
+  ""skipped_uploads"": [
+    ""Resume/CV"",
+    ""Cover Letter""
+  ],
+  ""company_name"": ""Attentive"",
+  ""job_title"": ""Job Application"",
+  ""confidence_rating"": 10
+}",https://job-boards.greenhouse.io/attentive/jobs/4209296009,"['First Name', 'Last Name', 'Preferred First Name', 'Email', 'Phone', 'LinkedIn Profile', 'Website', 'Will you now or in the future require sponsorship to work in the US?', 'Gender', 'Race', 'Veteran status', 'Cover Letter']",[],10
+Unknown User,AI Initiatives,"The job application form has been filled out with the provided information. All fields have been populated according to the resume and instructions. The sensitive demographic fields and consent checkbox have been addressed. The confidence rating for the filled form is 9/10. The company name is Attentive and the job title is Senior Environmental Engineer (implied from the resume and context, though not explicitly stated on the page for this specific application). The following fields were filled: First Name, Last Name, Preferred First Name, Email, Phone, LinkedIn Profile, Website, Sponsorship, Country, Gender, Race, Veteran status. The following fields were empty or skipped: Resume/CV, Cover Letter, and the 'If YES...' sponsorship details. The JSON output is as follows:
+```json
+{
+  ""applicant_name"": ""Alexandra O'Connel"",
+  ""filled"": [
+    ""First Name"",
+    ""Last Name"",
+    ""Preferred First Name"",
+    ""Email"",
+    ""Phone"",
+    ""LinkedIn Profile"",
+    ""Website"",
+    ""Will you now or in the future require sponsorship to work in the US?"",
+    ""Country"",
+    ""Gender"",
+    ""Race"",
+    ""Veteran status""
+  ],
+  ""empty"": [
+    ""Resume/CV"",
+    ""Cover Letter"",
+    ""If 'YES', what is the basis of your current employment authorization? And when does your current employment authorization expire? If H-1B, is there an approved I-140?""
+  ],
+  ""skipped_uploads"": [
+    ""Resume/CV"",
+    ""Cover Letter""
+  ],
+  ""company_name"": ""Attentive"",
+  ""job_title"": ""Senior Environmental Engineer"",
+  ""confidence_rating"": 9
+}
+```",https://job-boards.greenhouse.io/attentive/jobs/4209296009,"['First Name', 'Last Name', 'Preferred First Name', 'Email', 'Phone', 'LinkedIn Profile', 'Website', 'Will you now or in the future require sponsorship to work in the US?', 'Country', 'Gender', 'Race', 'Veteran status']","['Resume/CV', 'Cover Letter', ""If 'YES', what is the basis of your current employment authorization? And when does your current employment authorization expire? If H-1B, is there an approved I-140?""]",9
+Unknown User,SWE Intern,"The form was submitted prematurely because the 'Next' button was clicked instead of navigating to a new page. As a result, the demographic fields could not be filled out. The task could not be completed successfully.",https://forms.gle/h9k7anhTZceQ3Yif6,[],[],N/A
