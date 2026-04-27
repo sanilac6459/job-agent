@@ -1,4 +1,2 @@
 name,job_title,url,filled_fields,empty_fields,agents_confidence_rating,user_rating,user_feedback
-Unknown User,Product Engineering Intern,https://jobs.ashbyhq.com/vendelux/58bd403e-6ad2-4f85-8d0f-db9ee33f068a/application?utm_source=Simplify&ref=Simplify,[ Full Name | Email | Phone Number | Requires Sponsorship | Visa Type | Work Authorization | Website or LinkedIn Profile | Where are you physically based? | How did you hear about this job? | Employer restrictions | Gender | Race/Ethnicity | Veteran Status | Disability Status ],[],10,6,didnt fill out the mcq
-Unknown User,Product Engineering Intern,https://jobs.ashbyhq.com/vendelux/58bd403e-6ad2-4f85-8d0f-db9ee33f068a/application?utm_source=Simplify&ref=Simplify,[],[],N/A,5,didnt fill out everything
-Unknown User,AI Intern,https://job-boards.greenhouse.io/attentive/jobs/4209296009,[],[],N/A,1,sucks at filling in fields
+Unknown,Strategy Team,https://job-boards.greenhouse.io/attentive/jobs/4209296009,[],[],N/A,7,"The agent got stuck on the demographic dropdowns, despite explicit instructions saying it should NOT attempt to interact with dropdowns."

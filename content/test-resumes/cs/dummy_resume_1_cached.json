@@ -1,0 +1,76 @@
+Here's a breakdown of the resume:
+
+**First Name:** Jake
+**Last Name:** Ryan
+
+**Contact:**
+*   Phone: 123-456-7890
+*   Email: jake@su.edu
+*   LinkedIn: linkedin.com/in/jake
+*   GitHub: github.com/jake
+
+**Education:**
+
+**Southwestern University**
+*   Bachelor of Arts in Computer Science, Minor in Business
+*   Georgetown, TX
+*   Aug. 2018 - May 2021
+
+**Blinn College**
+*   Associate's in Liberal Arts
+*   Bryan, TX
+*   Aug. 2014 - May 2018
+
+**Experience:**
+
+**Undergraduate Research Assistant**
+*   Texas A&M University
+*   College Station, TX
+*   June 2020 - Present
+    *   Developed a REST API using FastAPI and PostgreSQL to store data from learning management systems.
+    *   Developed a full-stack web application using Flask, React, PostgreSQL, and Docker to analyze GitHub data.
+    *   Explored ways to visualize GitHub collaboration in a classroom setting.
+
+**Information Technology Support Specialist**
+*   Southwestern University
+*   Georgetown, TX
+*   Sep. 2018 - Present
+    *   Communicate with managers to set up campus computers used on campus.
+    *   Assess and troubleshoot computer problems brought by students, faculty, and staff.
+    *   Maintain upkeep of computers, classroom equipment, and 200 printers across campus.
+
+**Artificial Intelligence Research Assistant**
+*   Southwestern University
+*   Georgetown, TX
+*   May 2019 - July 2019
+    *   Explored methods to generate video game dungeons based off of *The Legend of Zelda*.
+    *   Developed a game in Java to test the generated dungeons.
+    *   Contributed 50K+ lines of code to an established codebase via Git.
+    *   Conducted a human subject study to determine which video game dungeon generation technique is enjoyable.
+    *   Wrote an 8-page paper and gave multiple presentations on-campus.
+    *   Presented virtually to the World Conference on Computational Intelligence.
+
+**Projects:**
+
+**Gitlytics**
+*   Python, Flask, React, PostgreSQL, Docker
+*   June 2020 - Present
+    *   Developed a full-stack web application using Flask serving a REST API with React as the frontend.
+    *   Implemented GitHub OAuth to get data from user's repositories.
+    *   Visualized GitHub data to show collaboration.
+    *   Used Celery and Redis for asynchronous tasks.
+
+**Simple Paintball**
+*   Spigot API, Java, Maven, TravisCI, Git
+*   May 2018 - May 2020
+    *   Developed a Minecraft server plugin to entertain kids during free time for a previous job.
+    *   Implemented continuous delivery using TravisCI to build the plugin upon a new release.
+    *   Published plugin to websites gaining 2K+ downloads and an average 4.5/5-star review.
+    *   Collaborated with Minecraft server administrators to suggest features and get feedback about the plugin.
+
+**Technical Skills:**
+
+*   **Languages:** Java, Python, C/C++, SQL (Postgres), JavaScript, HTML/CSS, R
+*   **Frameworks:** React, Node.js, Flask, JUnit, WordPress, Material-UI, FastAPI
+*   **Developer Tools:** Git, Docker, TravisCI, Google Cloud Platform, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse
+*   **Libraries:** pandas, NumPy, Matplotlib
