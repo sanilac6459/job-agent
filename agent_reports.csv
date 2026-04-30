@@ -1,2 +1,2 @@
 name,job_title,url,filled_fields,empty_fields,agents_confidence_rating,user_rating,user_feedback
-Unknown,Strategy Team,https://job-boards.greenhouse.io/attentive/jobs/4209296009,[],[],N/A,7,"The agent got stuck on the demographic dropdowns, despite explicit instructions saying it should NOT attempt to interact with dropdowns."
+Jake Ryan,,https://job-boards.greenhouse.io/attentive/jobs/4209296009,[ First Name | Last Name | Preferred First Name | Email | Phone | Country | LinkedIn Profile | Website | Gender | Race | Veteran status | Consent checkbox ],[],,9,"Incorrectly chose ""YES"" for needng sponsorship (dropdown). Also filled in other dropdowns despite instructions saying to skip dropdowns."
