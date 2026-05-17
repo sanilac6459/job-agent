@@ -1,7 +1,2 @@
-name,job_title,url,user_rating,user_feedback,total_fields,fill_rate,text_field_fill_rate,text_field_fill_amount,text_field_correct_rate,text_field_correct_amount,dropdown_fill_rate,dropdown_fill_amount,dropdown_correct_rate,dropdown_correct_amount
-Jerome Janson,Business Analyst,https://jobs.ashbyhq.com/makai-labs/e170b3c0-42c9-4bab-8afb-69c3b2f714b6/application?utm_source=WELgbZnvZO,1,did not fill out the app and exit the tab,4,100.0%,100.0%,4,75.0%,3,N/A,N/A,N/A,N/A
-Jake Ryan,,https://job-boards.greenhouse.io/attentive/jobs/4209296009,2,you didnt finish filling out the application,7,100.0%,100.0%,6,83.3%,5,100.0%,1,N/A,N/A
-Jake Ryan,AI Intern,https://job-boards.greenhouse.io/attentive/jobs/4209296009,10,filled everything out and filled out correctly,10,100.0%,100.0%,7,57.1%,4,100.0%,3,N/A,N/A
-Jake Ryan,AI Intern,https://job-boards.greenhouse.io/attentive/jobs/4209296009,10,filled out everything,10,100.0%,100.0%,8,62.5%,5,100.0%,2,N/A,N/A
-Jake Ryan,AI Intern,https://job-boards.greenhouse.io/attentive/jobs/4209296009,9,Entered full name for first name but otherwise it's great. skipped all dropdowns like its supposed to,8,100.0%,100.0%,8,62.5%,5,N/A,N/A,N/A,N/A
-Jake Ryan,AI Intern,https://job-boards.greenhouse.io/attentive/jobs/4209296009,7,the first name and last name are swapped,7,100.0%,100.0%,7,0.0%,N/A,N/A,N/A,N/A,N/A
+name,job_title,url,user_rating,user_feedback,total_fields,fill_rate,dropdown_fill_rate,dropdown_fill_amount,dropdown_correct_rate,dropdown_correct_amount,text_field_fill_rate,text_field_fill_amount,text_field_correct_rate,text_field_correct_amount
+Jake Ryan,,https://job-boards.greenhouse.io/attentive/jobs/4209296009,8,Spent too much time on the demographic drop downs. PIcked nonbinary??? Didn't fill in phone country code like I asked,12,91.7%,66.7%,2,100.0%,2,100.0%,9,22.2%,2
