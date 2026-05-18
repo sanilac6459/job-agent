@@ -1,5 +1,4 @@
-name,job_title,url,user_rating,user_feedback,total_fields,fill_rate,text_field_fill_rate,text_field_fill_amount,text_field_correct_rate,text_field_correct_amount
-Jake Ryan,AI Marketing Platform,https://job-boards.greenhouse.io/attentive/jobs/4209296009,,No feedback provided,N/A,N/A,N/A,N/A,N/A,N/A
-Jake Ryan,AI Intern,https://job-boards.greenhouse.io/attentive/jobs/4209296009,9,Put the full name in the first name field,7,100.0%,100.0%,7,0.0%,0
-Jake Ryan,AI Intern,https://job-boards.greenhouse.io/attentive/jobs/4209296009,10,Perfect,7,100.0%,100.0%,7,0.0%,0
-Jake Ryan,AI Intern,https://job-boards.greenhouse.io/attentive/jobs/4209296009,9,pretty good,8,100.0%,100.0%,8,0.0%,0
+name,job_title,url,user_rating,user_feedback,total_fields,fill_rate,text_field_fill_rate,text_field_fill_amount,text_field_correct_rate,text_field_correct_amount,short_answer_fill_rate,short_answer_fill_amount,short_answer_correct_rate,short_answer_correct_amount
+Jake Ryan,AI Intern,https://job-boards.greenhouse.io/attentive/jobs/4209296009,10,Perfect,7,100.0%,100.0%,7,0.0%,0,N/A,N/A,N/A,N/A
+Jerome Janson,Strategy & Operations Analyst,https://www.charliehealth.com/careers/current-openings?gh_jid=5742812004,7,Took a while on the veteran status dropdown,7,100.0%,100.0%,7,57.1%,4,N/A,N/A,N/A,N/A
+ALEXANDRA O'CONNEL,Engineering Intern,https://jobs.ashbyhq.com/blackbird-labs-inc/a901dd42-7c52-488a-bd55-f1d5dcd37b38/application?src=Linkedin,10,"Good job! FIlled out everything, just took a while searching for demographic & veteran status fields (which are not present)",5,100.0%,100.0%,4,100.0%,4,100.0%,1,0.0%,0
